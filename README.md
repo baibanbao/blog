@@ -17,4 +17,4 @@ This is my very simple blog which is set up directly on GitHub without relying o
 
 ## 目录
 
-[链接测试](2021-08-16-gc6weekly04.md)
+[链接测试](content/2021-08-16-gc6weekly04.md)
