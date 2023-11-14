@@ -15,3 +15,6 @@ This is my very simple blog which is set up directly on GitHub without relying o
 
 - [植堂](https://github.com/baibanbao/blog/blob/main/content/prayer-book-001.md)
 - [月亮和父亲](https://github.com/baibanbao/blog/blob/main/content/moonlight-and-father.md)
+- [雨中默想](https://github.com/baibanbao/blog/blob/main/content/meditation-in-rain.md)
+- [午夜的泪](https://github.com/baibanbao/blog/blob/main/content/tear-in-midnight.md)
+- [祈祷词](https://github.com/baibanbao/blog/blob/main/content/prayer-book-002.md)
