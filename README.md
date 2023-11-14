@@ -13,4 +13,4 @@ This is my very simple blog which is set up directly on GitHub without relying o
 
 ### 诗歌本
 
-[植堂](main/content/prayer-book-001.md)
+[植堂](https://github.com/baibanbao/blog/blob/main/content/prayer-book-001.md)
